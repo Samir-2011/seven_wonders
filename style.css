@@ -1,0 +1,40 @@
+.menu a{
+    color: cadetblue;
+    text-decoration: none;
+    background-color:dimgray;
+    padding: 10px 15px;
+    border-radius: 10px 0px 10px 0px;
+
+}
+.menu a:hover{
+    color: dodgerblue;
+    background-color:slategrey;
+}
+.box{
+    width: 800px;
+    margin: auto;
+    border-radius: 5px;
+    padding: 30px;
+    background-color:rgb(29, 25, 25) ;
+}
+.link{
+    text-align: right;
+}
+.photo{
+    width: 800px;
+    height: 600px;
+}
+.text{
+    color: deepskyblue;
+
+}
+body{
+    background-image: url(https://www.rbc.ua/static/img/_/_/____41180_1300x820.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top left;
+}
+h2{
+    color: mediumslateblue;
+}
